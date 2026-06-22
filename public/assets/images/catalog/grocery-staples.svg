@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 920">
+  <rect width="720" height="920" fill="#f6f0de"/>
+  <rect x="84" y="102" width="552" height="716" rx="42" fill="#e8dbb4"/>
+  <path d="M230 266h260l48 292H182z" fill="#ffffff"/>
+  <path d="M252 300h216l34 208H218z" fill="#efe2bc"/>
+  <path d="M272 260c6-44 40-76 88-76 50 0 82 32 88 76h-40c-4-24-22-40-48-40s-44 16-48 40z" fill="#8d6d2d"/>
+  <circle cx="292" cy="420" r="18" fill="#d7bb66"/>
+  <circle cx="360" cy="454" r="18" fill="#d7bb66"/>
+  <circle cx="426" cy="396" r="18" fill="#d7bb66"/>
+  <text x="360" y="738" text-anchor="middle" fill="#775b24" font-family="Arial, sans-serif" font-size="40" font-weight="700">Staple foods</text>
+</svg>

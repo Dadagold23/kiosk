@@ -1,0 +1,24 @@
+<IfModule mod_negotiation.c>
+    Options -MultiViews -Indexes
+</IfModule>
+
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+
+    RewriteCond %{HTTP:Authorization} .
+    RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+
+    RewriteCond %{HTTP_HOST} !^www\.kiosk\.mirrorageconcepts\.com$ [NC]
+    RewriteRule ^ https://www.kiosk.mirrorageconcepts.com%{REQUEST_URI} [R=301,L]
+
+    RewriteCond %{HTTPS} !=on
+    RewriteCond %{HTTP:X-Forwarded-Proto} !https [NC]
+    RewriteRule ^ https://www.kiosk.mirrorageconcepts.com%{REQUEST_URI} [R=301,L]
+
+    RewriteRule "(^|/)\.(?!well-known/)" - [F]
+
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteRule ^ index.php [L]
+</IfModule>
+

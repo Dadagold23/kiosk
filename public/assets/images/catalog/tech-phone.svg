@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 920">
+  <rect width="720" height="920" fill="#edf3fb"/>
+  <rect x="78" y="90" width="564" height="740" rx="42" fill="#d8e4f6"/>
+  <rect x="196" y="126" width="328" height="668" rx="36" fill="#ffffff"/>
+  <rect x="310" y="154" width="100" height="12" rx="6" fill="#95add4"/>
+  <circle cx="360" cy="736" r="26" fill="#d6e2f4"/>
+  <rect x="238" y="238" width="244" height="244" rx="34" fill="#e8f0fb"/>
+  <path d="M320 292h80a24 24 0 0 1 24 24v88a24 24 0 0 1-24 24h-80a24 24 0 0 1-24-24v-88a24 24 0 0 1 24-24Zm4 52h72v32h-72Zm0 56h72v20h-72Z" fill="#5274a4"/>
+  <text x="360" y="574" text-anchor="middle" fill="#405b86" font-family="Arial, sans-serif" font-size="40" font-weight="700">Phones &amp; tablets</text>
+</svg>

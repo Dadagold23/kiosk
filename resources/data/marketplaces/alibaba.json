@@ -1,0 +1,112 @@
+{
+  "items": [
+    {
+      "sku": "ALI-COMP-001",
+      "name": "15-inch Touch POS Terminal",
+      "description": "Commercial-grade POS terminal with touch display and multi-port connectivity.",
+      "category_slug": "office-equipment",
+      "price": 525000,
+      "sale_price": 499000,
+      "quantity": 0,
+      "image": "https://marketplace.example/alibaba/pos-terminal-15.jpg",
+      "external_url": "https://marketplace.example/alibaba/pos-terminal-15",
+      "featured": true
+    },
+    {
+      "sku": "ALI-COMP-002",
+      "name": "Industrial Label Printer 4-inch",
+      "description": "Bulk procurement thermal label printer for warehouse and logistics operations.",
+      "category_slug": "office-equipment",
+      "price": 265000,
+      "sale_price": 249000,
+      "quantity": 0,
+      "image": "https://marketplace.example/alibaba/label-printer-4inch.jpg",
+      "external_url": "https://marketplace.example/alibaba/label-printer-4inch",
+      "featured": false
+    },
+    {
+      "sku": "ALI-ELE-001",
+      "name": "4K Smart Display 55-inch",
+      "description": "Large-format smart display suitable for retail signage and conference rooms.",
+      "category_slug": "electronics",
+      "price": 715000,
+      "sale_price": 689000,
+      "quantity": 0,
+      "image": "https://marketplace.example/alibaba/4k-display-55.jpg",
+      "external_url": "https://marketplace.example/alibaba/4k-display-55",
+      "featured": false
+    },
+    {
+      "sku": "ALI-HAP-001",
+      "name": "Commercial Blender 2L",
+      "description": "High-torque blender for smoothie bars, cafes, and kitchen prep.",
+      "category_slug": "home-appliances",
+      "price": 98500,
+      "sale_price": 94900,
+      "quantity": 0,
+      "image": "https://marketplace.example/alibaba/commercial-blender.jpg",
+      "external_url": "https://marketplace.example/alibaba/commercial-blender",
+      "featured": false
+    },
+    {
+      "sku": "ALI-BAG-001",
+      "name": "Business Travel Laptop Backpack",
+      "description": "Corporate-grade backpack with padded laptop sleeve and organizer pockets.",
+      "category_slug": "bags-and-backpacks",
+      "price": 52000,
+      "sale_price": 48900,
+      "quantity": 0,
+      "image": "https://marketplace.example/alibaba/laptop-backpack.jpg",
+      "external_url": "https://marketplace.example/alibaba/laptop-backpack",
+      "featured": false
+    },
+    {
+      "sku": "ALI-OFF-001",
+      "name": "Heavy Duty Cash Drawer",
+      "description": "Lockable cash drawer with multi-currency compartments.",
+      "category_slug": "office-equipment",
+      "price": 145000,
+      "sale_price": 139000,
+      "quantity": 0,
+      "image": "https://marketplace.example/alibaba/cash-drawer.jpg",
+      "external_url": "https://marketplace.example/alibaba/cash-drawer",
+      "featured": false
+    },
+    {
+      "sku": "ALI-OFF-002",
+      "name": "POS Receipt Printer 80mm",
+      "description": "Bulk procurement thermal printer with USB and Ethernet connectivity.",
+      "category_slug": "office-equipment",
+      "price": 215000,
+      "sale_price": 205000,
+      "quantity": 0,
+      "image": "https://marketplace.example/alibaba/pos-printer-80mm.jpg",
+      "external_url": "https://marketplace.example/alibaba/pos-printer-80mm",
+      "featured": false
+    },
+    {
+      "sku": "ALI-COMP-003",
+      "name": "Mini Industrial UPS 1kVA",
+      "description": "Power backup unit for office devices and POS terminals.",
+      "category_slug": "office-equipment",
+      "price": 265000,
+      "sale_price": 249000,
+      "quantity": 0,
+      "image": "https://marketplace.example/alibaba/mini-ups-1kva.jpg",
+      "external_url": "https://marketplace.example/alibaba/mini-ups-1kva",
+      "featured": false
+    },
+    {
+      "sku": "ALI-ELE-002",
+      "name": "LED Video Wall Panel",
+      "description": "Indoor LED panel modules for commercial signage and events.",
+      "category_slug": "electronics",
+      "price": 980000,
+      "sale_price": 945000,
+      "quantity": 0,
+      "image": "https://marketplace.example/alibaba/led-video-wall.jpg",
+      "external_url": "https://marketplace.example/alibaba/led-video-wall",
+      "featured": false
+    }
+  ]
+}

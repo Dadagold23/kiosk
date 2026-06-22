@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 920">
+  <rect width="720" height="920" fill="#f3eef8"/>
+  <rect x="82" y="102" width="556" height="716" rx="42" fill="#ddd3ea"/>
+  <rect x="150" y="196" width="420" height="300" rx="26" fill="#ffffff"/>
+  <rect x="188" y="238" width="344" height="176" rx="16" fill="#f2eef8"/>
+  <rect x="214" y="454" width="292" height="42" rx="16" fill="#bca9d6"/>
+  <rect x="196" y="568" width="328" height="108" rx="22" fill="#ffffff"/>
+  <rect x="230" y="600" width="72" height="18" rx="9" fill="#6c548d"/>
+  <rect x="318" y="600" width="72" height="18" rx="9" fill="#6c548d"/>
+  <rect x="406" y="600" width="72" height="18" rx="9" fill="#6c548d"/>
+  <text x="360" y="772" text-anchor="middle" fill="#5c457b" font-family="Arial, sans-serif" font-size="40" font-weight="700">Office equipment</text>
+</svg>

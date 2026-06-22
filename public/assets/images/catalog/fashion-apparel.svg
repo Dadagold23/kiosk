@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 920">
+  <rect width="720" height="920" fill="#f4ebe8"/>
+  <rect x="84" y="102" width="552" height="716" rx="42" fill="#e6d0c8"/>
+  <path d="M290 224c12-38 40-62 70-62s58 24 70 62l64 58-48 84-38-30-14 268H276l-14-268-38 30-48-84z" fill="#8b5b4b"/>
+  <path d="M334 224h52l16 86h-84z" fill="#efd9d1"/>
+  <text x="360" y="736" text-anchor="middle" fill="#734839" font-family="Arial, sans-serif" font-size="40" font-weight="700">Fashion</text>
+</svg>

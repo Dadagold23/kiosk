@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 920">
+  <rect width="720" height="920" fill="#f1ece6"/>
+  <rect x="84" y="102" width="552" height="716" rx="42" fill="#ddd0c2"/>
+  <rect x="172" y="228" width="376" height="404" rx="48" fill="#ffffff"/>
+  <path d="M264 250c0-54 43-98 96-98s96 44 96 98h-42c0-31-24-56-54-56s-54 25-54 56z" fill="#7d5d47"/>
+  <rect x="212" y="320" width="296" height="220" rx="24" fill="#e7dbcf"/>
+  <rect x="250" y="364" width="220" height="20" rx="10" fill="#8e6f59"/>
+  <rect x="250" y="412" width="168" height="20" rx="10" fill="#8e6f59"/>
+  <text x="360" y="744" text-anchor="middle" fill="#6a503f" font-family="Arial, sans-serif" font-size="40" font-weight="700">Bags &amp; luggage</text>
+</svg>

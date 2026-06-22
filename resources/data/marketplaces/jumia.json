@@ -1,0 +1,112 @@
+{
+  "items": [
+    {
+      "sku": "JUM-PHN-001",
+      "name": "Samsung Galaxy A55 5G 256GB",
+      "description": "Global marketplace listing for a 5G smartphone with 256GB storage and fast charging support.",
+      "category_slug": "phones-and-tablets",
+      "price": 425000,
+      "sale_price": 409000,
+      "quantity": 0,
+      "image": "https://marketplace.example/jumia/galaxy-a55.jpg",
+      "external_url": "https://marketplace.example/jumia/galaxy-a55",
+      "featured": true
+    },
+    {
+      "sku": "JUM-ELE-001",
+      "name": "Hisense 43-inch Smart TV",
+      "description": "Smart television with streaming apps, multiple HDMI ports, and vivid picture output.",
+      "category_slug": "electronics",
+      "price": 295000,
+      "sale_price": 279000,
+      "quantity": 0,
+      "image": "https://marketplace.example/jumia/hisense-43.jpg",
+      "external_url": "https://marketplace.example/jumia/hisense-43",
+      "featured": true
+    },
+    {
+      "sku": "JUM-HAP-001",
+      "name": "Haier Thermocool 8kg Washing Machine",
+      "description": "Global listing for a top-load washing machine with multiple wash programs.",
+      "category_slug": "home-appliances",
+      "price": 318000,
+      "sale_price": 305000,
+      "quantity": 0,
+      "image": "https://marketplace.example/jumia/haier-washer-8kg.jpg",
+      "external_url": "https://marketplace.example/jumia/haier-washer-8kg",
+      "featured": false
+    },
+    {
+      "sku": "JUM-FASH-001",
+      "name": "Unisex Running Sneakers",
+      "description": "Lightweight sneakers suitable for daily wear, gym sessions, and casual outfits.",
+      "category_slug": "shoes-and-footwear",
+      "price": 42000,
+      "sale_price": 38900,
+      "quantity": 0,
+      "image": "https://marketplace.example/jumia/unisex-sneakers.jpg",
+      "external_url": "https://marketplace.example/jumia/unisex-sneakers",
+      "featured": false
+    },
+    {
+      "sku": "JUM-BAG-001",
+      "name": "Expandable Travel Backpack 35L",
+      "description": "Durable backpack with laptop sleeve, compression straps, and travel-ready capacity.",
+      "category_slug": "bags-and-backpacks",
+      "price": 58500,
+      "sale_price": 54900,
+      "quantity": 0,
+      "image": "https://marketplace.example/jumia/expandable-backpack.jpg",
+      "external_url": "https://marketplace.example/jumia/expandable-backpack",
+      "featured": false
+    },
+    {
+      "sku": "JUM-PHN-002",
+      "name": "Tecno Camon 30 256GB",
+      "description": "High storage Android phone with strong camera setup and fast charging.",
+      "category_slug": "phones-and-tablets",
+      "price": 245000,
+      "sale_price": 232000,
+      "quantity": 0,
+      "image": "https://marketplace.example/jumia/tecno-camon-30.jpg",
+      "external_url": "https://marketplace.example/jumia/tecno-camon-30",
+      "featured": false
+    },
+    {
+      "sku": "JUM-ELE-002",
+      "name": "Oraimo PowerBox 12000mAh",
+      "description": "Compact power bank with dual output and fast charging support.",
+      "category_slug": "electronics",
+      "price": 18500,
+      "sale_price": 17200,
+      "quantity": 0,
+      "image": "https://marketplace.example/jumia/oraimo-powerbox.jpg",
+      "external_url": "https://marketplace.example/jumia/oraimo-powerbox",
+      "featured": false
+    },
+    {
+      "sku": "JUM-HAP-002",
+      "name": "LG 5kg Twin Tub Washer",
+      "description": "Twin-tub washing machine for light household laundry needs.",
+      "category_slug": "home-appliances",
+      "price": 155000,
+      "sale_price": 149000,
+      "quantity": 0,
+      "image": "https://marketplace.example/jumia/lg-twin-tub-5kg.jpg",
+      "external_url": "https://marketplace.example/jumia/lg-twin-tub-5kg",
+      "featured": false
+    },
+    {
+      "sku": "JUM-FASH-002",
+      "name": "Men's Corporate Shoe Set",
+      "description": "Formal shoe set with belt for office and event dressing.",
+      "category_slug": "shoes-and-footwear",
+      "price": 52000,
+      "sale_price": 49500,
+      "quantity": 0,
+      "image": "https://marketplace.example/jumia/corporate-shoe-set.jpg",
+      "external_url": "https://marketplace.example/jumia/corporate-shoe-set",
+      "featured": false
+    }
+  ]
+}

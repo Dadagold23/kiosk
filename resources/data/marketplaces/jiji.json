@@ -1,0 +1,112 @@
+{
+  "items": [
+    {
+      "sku": "JIJ-PHN-001",
+      "name": "UK Used iPhone 12 128GB",
+      "description": "Verified used phone listing with quality grading and accessories bundle.",
+      "category_slug": "phones-and-tablets",
+      "price": 285000,
+      "sale_price": 269000,
+      "quantity": 0,
+      "image": "https://marketplace.example/jiji/iphone-12-128.jpg",
+      "external_url": "https://marketplace.example/jiji/iphone-12-128",
+      "featured": true
+    },
+    {
+      "sku": "JIJ-ELE-001",
+      "name": "Used 32-inch Smart TV",
+      "description": "Pre-owned smart TV with HDMI support and verified working status.",
+      "category_slug": "electronics",
+      "price": 125000,
+      "sale_price": 118000,
+      "quantity": 0,
+      "image": "https://marketplace.example/jiji/used-32-smart-tv.jpg",
+      "external_url": "https://marketplace.example/jiji/used-32-smart-tv",
+      "featured": false
+    },
+    {
+      "sku": "JIJ-FASH-001",
+      "name": "Designer Handbag Leather",
+      "description": "Premium leather handbag with structured build and inner organizer pockets.",
+      "category_slug": "bags-and-backpacks",
+      "price": 98000,
+      "sale_price": 92500,
+      "quantity": 0,
+      "image": "https://marketplace.example/jiji/designer-handbag.jpg",
+      "external_url": "https://marketplace.example/jiji/designer-handbag",
+      "featured": false
+    },
+    {
+      "sku": "JIJ-SHOE-001",
+      "name": "Men's Leather Derby Shoes",
+      "description": "Classic formal derby shoes suitable for work and events.",
+      "category_slug": "shoes-and-footwear",
+      "price": 52000,
+      "sale_price": 49500,
+      "quantity": 0,
+      "image": "https://marketplace.example/jiji/leather-derby-shoes.jpg",
+      "external_url": "https://marketplace.example/jiji/leather-derby-shoes",
+      "featured": false
+    },
+    {
+      "sku": "JIJ-HAP-001",
+      "name": "Used Inverter Air Conditioner 1.5HP",
+      "description": "Verified used inverter AC with installation support available.",
+      "category_slug": "home-appliances",
+      "price": 215000,
+      "sale_price": 205000,
+      "quantity": 0,
+      "image": "https://marketplace.example/jiji/inverter-ac-1-5hp.jpg",
+      "external_url": "https://marketplace.example/jiji/inverter-ac-1-5hp",
+      "featured": false
+    },
+    {
+      "sku": "JIJ-PHN-002",
+      "name": "UK Used Samsung S21 128GB",
+      "description": "Verified used Samsung phone with charging cable and protective case.",
+      "category_slug": "phones-and-tablets",
+      "price": 265000,
+      "sale_price": 249000,
+      "quantity": 0,
+      "image": "https://marketplace.example/jiji/samsung-s21-128.jpg",
+      "external_url": "https://marketplace.example/jiji/samsung-s21-128",
+      "featured": false
+    },
+    {
+      "sku": "JIJ-ELE-002",
+      "name": "Used Sound System 2.1",
+      "description": "Pre-owned sound system with subwoofer and dual speakers.",
+      "category_slug": "electronics",
+      "price": 88000,
+      "sale_price": 83500,
+      "quantity": 0,
+      "image": "https://marketplace.example/jiji/sound-system-2-1.jpg",
+      "external_url": "https://marketplace.example/jiji/sound-system-2-1",
+      "featured": false
+    },
+    {
+      "sku": "JIJ-BAG-002",
+      "name": "Leather Briefcase Executive",
+      "description": "Structured leather briefcase with lock and laptop sleeve.",
+      "category_slug": "bags-and-backpacks",
+      "price": 125000,
+      "sale_price": 118000,
+      "quantity": 0,
+      "image": "https://marketplace.example/jiji/leather-briefcase.jpg",
+      "external_url": "https://marketplace.example/jiji/leather-briefcase",
+      "featured": false
+    },
+    {
+      "sku": "JIJ-SHOE-002",
+      "name": "Women's Heeled Sandals",
+      "description": "Elegant heeled sandals suitable for events and office wear.",
+      "category_slug": "shoes-and-footwear",
+      "price": 42000,
+      "sale_price": 39900,
+      "quantity": 0,
+      "image": "https://marketplace.example/jiji/heeled-sandals.jpg",
+      "external_url": "https://marketplace.example/jiji/heeled-sandals",
+      "featured": false
+    }
+  ]
+}

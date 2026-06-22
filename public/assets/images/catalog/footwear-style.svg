@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 920">
+  <rect width="720" height="920" fill="#f2ede8"/>
+  <rect x="84" y="102" width="552" height="716" rx="42" fill="#dfd3c7"/>
+  <path d="M178 528c44 0 86-20 130-62l82-80 66 44c18 12 34 32 44 56l20 50c8 22-8 46-32 46H228c-28 0-50-22-50-50 0-2 0-2 0-4Z" fill="#765542"/>
+  <path d="M232 582h268c18 0 34 14 34 32v16H198v-8c0-22 14-40 34-40Z" fill="#c4ac96"/>
+  <text x="360" y="750" text-anchor="middle" fill="#604535" font-family="Arial, sans-serif" font-size="40" font-weight="700">Footwear</text>
+</svg>

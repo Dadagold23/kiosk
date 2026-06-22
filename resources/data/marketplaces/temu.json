@@ -1,0 +1,112 @@
+{
+  "items": [
+    {
+      "sku": "TEM-BABY-001",
+      "name": "Premium Baby Diaper Bundle 3x",
+      "description": "Global marketplace bundle of breathable baby diapers with high absorbency.",
+      "category_slug": "baby-care-and-diapers",
+      "price": 35500,
+      "sale_price": 32900,
+      "quantity": 0,
+      "image": "https://marketplace.example/temu/diaper-bundle.jpg",
+      "external_url": "https://marketplace.example/temu/diaper-bundle",
+      "featured": true
+    },
+    {
+      "sku": "TEM-ELE-001",
+      "name": "Wireless Earbuds Pro",
+      "description": "Compact earbuds with charging case, noise isolation, and long playtime.",
+      "category_slug": "electronics",
+      "price": 28500,
+      "sale_price": 26500,
+      "quantity": 0,
+      "image": "https://marketplace.example/temu/earbuds-pro.jpg",
+      "external_url": "https://marketplace.example/temu/earbuds-pro",
+      "featured": false
+    },
+    {
+      "sku": "TEM-HAP-001",
+      "name": "Air Fryer 5L Digital",
+      "description": "Oil-free cooking air fryer with digital controls and preset modes.",
+      "category_slug": "home-appliances",
+      "price": 82000,
+      "sale_price": 78500,
+      "quantity": 0,
+      "image": "https://marketplace.example/temu/air-fryer-5l.jpg",
+      "external_url": "https://marketplace.example/temu/air-fryer-5l",
+      "featured": true
+    },
+    {
+      "sku": "TEM-FASH-001",
+      "name": "Women's Lounge Set Two-Piece",
+      "description": "Comfortable lounge wear set with matching top and joggers.",
+      "category_slug": "fashion",
+      "price": 26500,
+      "sale_price": 24900,
+      "quantity": 0,
+      "image": "https://marketplace.example/temu/lounge-set.jpg",
+      "external_url": "https://marketplace.example/temu/lounge-set",
+      "featured": false
+    },
+    {
+      "sku": "TEM-BACC-001",
+      "name": "Foldable Baby High Chair",
+      "description": "Compact baby feeding chair with tray and adjustable height.",
+      "category_slug": "baby-items-and-accessories",
+      "price": 65000,
+      "sale_price": 61900,
+      "quantity": 0,
+      "image": "https://marketplace.example/temu/foldable-high-chair.jpg",
+      "external_url": "https://marketplace.example/temu/foldable-high-chair",
+      "featured": false
+    },
+    {
+      "sku": "TEM-COMP-001",
+      "name": "Wireless Keyboard and Mouse Combo",
+      "description": "Slim wireless combo for laptops and desktop setups.",
+      "category_slug": "computing-and-accessories",
+      "price": 19500,
+      "sale_price": 17900,
+      "quantity": 0,
+      "image": "https://marketplace.example/temu/wireless-combo.jpg",
+      "external_url": "https://marketplace.example/temu/wireless-combo",
+      "featured": false
+    },
+    {
+      "sku": "TEM-WAT-001",
+      "name": "Smart Watch Sport Edition",
+      "description": "Multi-sport smart watch with sleep tracking and activity rings.",
+      "category_slug": "watches-and-accessories",
+      "price": 42000,
+      "sale_price": 39800,
+      "quantity": 0,
+      "image": "https://marketplace.example/temu/smart-watch-sport.jpg",
+      "external_url": "https://marketplace.example/temu/smart-watch-sport",
+      "featured": false
+    },
+    {
+      "sku": "TEM-BAG-001",
+      "name": "Compact Travel Duffel",
+      "description": "Lightweight duffel with shoe pocket and shoulder strap.",
+      "category_slug": "bags-and-backpacks",
+      "price": 35500,
+      "sale_price": 32900,
+      "quantity": 0,
+      "image": "https://marketplace.example/temu/compact-duffel.jpg",
+      "external_url": "https://marketplace.example/temu/compact-duffel",
+      "featured": false
+    },
+    {
+      "sku": "TEM-FOOD-001",
+      "name": "Stainless Food Storage Set 10pcs",
+      "description": "Reusable food storage containers for home kitchens.",
+      "category_slug": "home-appliances",
+      "price": 28500,
+      "sale_price": 26900,
+      "quantity": 0,
+      "image": "https://marketplace.example/temu/food-storage-set.jpg",
+      "external_url": "https://marketplace.example/temu/food-storage-set",
+      "featured": false
+    }
+  ]
+}

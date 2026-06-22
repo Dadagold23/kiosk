@@ -1,0 +1,35 @@
+<IfModule mod_negotiation.c>
+    Options -MultiViews -Indexes
+</IfModule>
+
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+
+    # Preserve authorization headers for Laravel auth and API flows.
+    RewriteCond %{HTTP:Authorization} .
+    RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+
+    # Mark common local-development hosts so Apache skips production redirects.
+    RewriteCond %{HTTP_HOST} ^(localhost|127\.0\.0\.1|::1)(:\d+)?$ [NC,OR]
+    RewriteCond %{HTTP_HOST} \.(test|local)$ [NC]
+    RewriteRule ^ - [E=IS_LOCALHOST:1]
+
+    # Canonical production host for the cPanel subdomain.
+    RewriteCond %{ENV:IS_LOCALHOST} !=1
+    RewriteCond %{HTTP_HOST} !^www\.kiosk\.mirrorageconcepts\.com$ [NC]
+    RewriteRule ^ https://www.kiosk.mirrorageconcepts.com%{REQUEST_URI} [R=301,L]
+
+    # Force HTTPS behind typical cPanel/Cloudflare/proxy setups.
+    RewriteCond %{ENV:IS_LOCALHOST} !=1
+    RewriteCond %{HTTPS} !=on
+    RewriteCond %{HTTP:X-Forwarded-Proto} !https [NC]
+    RewriteRule ^ https://www.kiosk.mirrorageconcepts.com%{REQUEST_URI} [R=301,L]
+
+    # Prevent direct access to hidden files except the ACME challenge folder.
+    RewriteRule "(^|/)\.(?!well-known/)" - [F]
+
+    # Send all non-file, non-directory requests to Laravel.
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteRule ^ index.php [L]
+</IfModule>

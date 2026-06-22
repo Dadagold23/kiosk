@@ -1,0 +1,112 @@
+{
+  "items": [
+    {
+      "sku": "AEX-HOME-001",
+      "name": "Robot Vacuum Cleaner Pro",
+      "description": "Smart robot vacuum with scheduled cleaning, mopping, and auto return to dock.",
+      "category_slug": "home-appliances",
+      "price": 195000,
+      "sale_price": 184000,
+      "quantity": 0,
+      "image": "https://marketplace.example/aliexpress/robot-vacuum-pro.jpg",
+      "external_url": "https://marketplace.example/aliexpress/robot-vacuum-pro",
+      "featured": true
+    },
+    {
+      "sku": "AEX-ELE-001",
+      "name": "Portable Bluetooth Soundbar",
+      "description": "Compact soundbar with sub-bass enhancement for home entertainment.",
+      "category_slug": "electronics",
+      "price": 78000,
+      "sale_price": 74900,
+      "quantity": 0,
+      "image": "https://marketplace.example/aliexpress/portable-soundbar.jpg",
+      "external_url": "https://marketplace.example/aliexpress/portable-soundbar",
+      "featured": false
+    },
+    {
+      "sku": "AEX-WAT-001",
+      "name": "Smart Watch Health Edition",
+      "description": "Fitness smart watch with blood oxygen tracking and call notifications.",
+      "category_slug": "watches-and-accessories",
+      "price": 52000,
+      "sale_price": 49500,
+      "quantity": 0,
+      "image": "https://marketplace.example/aliexpress/smart-watch-health.jpg",
+      "external_url": "https://marketplace.example/aliexpress/smart-watch-health",
+      "featured": false
+    },
+    {
+      "sku": "AEX-SHOE-001",
+      "name": "Men's Running Trainers Lite",
+      "description": "Breathable running trainers with cushioned sole for daily workouts.",
+      "category_slug": "shoes-and-footwear",
+      "price": 46500,
+      "sale_price": 43900,
+      "quantity": 0,
+      "image": "https://marketplace.example/aliexpress/running-trainers-lite.jpg",
+      "external_url": "https://marketplace.example/aliexpress/running-trainers-lite",
+      "featured": false
+    },
+    {
+      "sku": "AEX-PHN-001",
+      "name": "Global 5G Smartphone 256GB",
+      "description": "Unlocked 5G smartphone with large storage and high-refresh display.",
+      "category_slug": "phones-and-tablets",
+      "price": 390000,
+      "sale_price": 372000,
+      "quantity": 0,
+      "image": "https://marketplace.example/aliexpress/5g-smartphone-256.jpg",
+      "external_url": "https://marketplace.example/aliexpress/5g-smartphone-256",
+      "featured": false
+    },
+    {
+      "sku": "AEX-COMP-001",
+      "name": "USB-C Docking Station 8-in-1",
+      "description": "Multi-port dock with HDMI, USB, and SD card slots.",
+      "category_slug": "computing-and-accessories",
+      "price": 62000,
+      "sale_price": 58900,
+      "quantity": 0,
+      "image": "https://marketplace.example/aliexpress/usb-c-dock.jpg",
+      "external_url": "https://marketplace.example/aliexpress/usb-c-dock",
+      "featured": false
+    },
+    {
+      "sku": "AEX-FASH-001",
+      "name": "Women's Work Blazer",
+      "description": "Classic tailored blazer for office and formal events.",
+      "category_slug": "fashion",
+      "price": 52000,
+      "sale_price": 49900,
+      "quantity": 0,
+      "image": "https://marketplace.example/aliexpress/work-blazer.jpg",
+      "external_url": "https://marketplace.example/aliexpress/work-blazer",
+      "featured": false
+    },
+    {
+      "sku": "AEX-HAP-002",
+      "name": "Smart Air Purifier",
+      "description": "Air purifier with HEPA filter and smart auto mode.",
+      "category_slug": "home-appliances",
+      "price": 178000,
+      "sale_price": 169000,
+      "quantity": 0,
+      "image": "https://marketplace.example/aliexpress/air-purifier.jpg",
+      "external_url": "https://marketplace.example/aliexpress/air-purifier",
+      "featured": false
+    },
+    {
+      "sku": "AEX-BAG-001",
+      "name": "Rolling Cabin Suitcase 20-inch",
+      "description": "Carry-on suitcase with spinner wheels and TSA lock.",
+      "category_slug": "bags-and-backpacks",
+      "price": 98000,
+      "sale_price": 94500,
+      "quantity": 0,
+      "image": "https://marketplace.example/aliexpress/cabin-suitcase.jpg",
+      "external_url": "https://marketplace.example/aliexpress/cabin-suitcase",
+      "featured": false
+    }
+  ]
+}
